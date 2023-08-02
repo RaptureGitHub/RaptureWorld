@@ -30,7 +30,7 @@
         "roles":["Angel"]
     },
     "≺Harmony≻" : {
-        "roles":["Angel", "DJ"]
+        "roles":["Angel", "DJ", "Supervisor"]
     },
     "HunnieBrown" : {
         "roles":["Angel"]
@@ -42,7 +42,7 @@
         "roles":["Angel"]
     },
     "Light 思慎" : {
-        "roles":["Angel"]
+        "roles":["Angel", "Supervisor"]
     },
     "Loronus" : {
         "roles":["Angel", "DJ"]
@@ -54,13 +54,13 @@
         "roles":["Angel"]
     },
     "beefhog" : {
-        "roles":["Angel"]
+        "roles":["Angel", "Supervisor"]
     },
     "NightcoreVR" : {
         "roles":["Angel"]
     },
     "REDACTED］" : {
-        "roles":["Angel"]
+        "roles":["Angel", "Supervisor", "MapMaker"]
     },
     "Farfledarf" : {
         "roles":["Angel", "Host"]
@@ -81,7 +81,11 @@
         "roles":["Angel"]
     },
     "AzureAhri" : {
-        "roles":["Angel"]
+        "roles":["Angel", "Supervisor"]
+    },
+    "JinxyChan" : {
+        "note": "ahri alt",
+        "roles":["Angel", "Supervisor"]
     },
     "ShantyShark" : {
         "roles":["Angel", "DJ"]
@@ -90,25 +94,25 @@
         "roles":["Angel"]
     },
     "Zesshi Zetsumei" : {
-        "roles":["Security"]
+        "roles":["Security", "Supervisor", "MapMaker"]
     },
     "Corki99" : {
         "roles":["Security"]
     },
     "Afireseeker" : {
-        "roles":["Security"]
+        "roles":["Security", "Supervisor"]
     },
     "Connver" : {
         "roles":["Security"]
     },
     "The Urge" : {
-        "roles":["Security"]
+        "roles":["Security", "Supervisor"]
     },
     "CobaltJB" : {
-        "roles":["Security"]
+        "roles":["Security", "Supervisor"]
     },
     "DarkXieon" : {
-        "roles":["Security"]
+        "roles":["Security", "Supervisor"]
     },
     "Papachowla" : {
         "roles":["Security"]
@@ -132,13 +136,13 @@
         "roles":["Host"]
     },
     "Flutterhawk ™" : {
-        "roles":["Host"]
+        "roles":["Host", "Supervisor"]
     },
     "|| xQueenKarma" : {
-        "roles":["Host"]
+        "roles":["Host", "Supervisor"]
     },
     "BladeMaster42" : {
-        "roles":["Host"]
+        "roles":["Host", "Supervisor"]
     },
     "BritishRespawn" : {
         "roles":["Host"]
@@ -151,5 +155,20 @@
     },
     "DementedEsper" : {
         "roles":["DJ"]
+    },
+    "HcgRandon" : {
+        "roles":["Supervisor", "MapMaker"]
+    },
+    "KittyMixikins" : {
+        "roles":["Supervisor", "MapMaker"]
+    },
+    "Cironex" : {
+        "roles":["MapMaker"]
+    },
+    "RaptureWorld" : {
+        "roles":["MapMaker"]
+    },
+    "Fawnit" : {
+        "roles":["MapMaker"]
     }
 }
