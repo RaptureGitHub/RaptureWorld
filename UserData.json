@@ -15,7 +15,7 @@
         "roles":["Angel"]
     },
     "Innocentlyy" : {
-        "roles":["Angel", "Security"]
+        "roles":["Angel", "Security", "DJ"]
     },
     "EDM Fanatic" : {
         "roles":["Angel"]
@@ -30,13 +30,13 @@
         "roles":["Angel"]
     },
     "≺Harmony≻" : {
-        "roles":["Angel"]
+        "roles":["Angel", "DJ"]
     },
     "HunnieBrown" : {
         "roles":["Angel"]
     },
     "Katyzon" : {
-        "roles":["Angel"]
+        "roles":["Angel", "DJ"]
     },
     "persia000123" : {
         "roles":["Angel"]
@@ -45,10 +45,10 @@
         "roles":["Angel"]
     },
     "Loronus" : {
-        "roles":["Angel"]
+        "roles":["Angel", "DJ"]
     },
     "Cliptic_7" : {
-        "roles":["Angel", "Security"]
+        "roles":["Angel", "Security", "Host"]
     },
     "Agdistis" : {
         "roles":["Angel"]
@@ -63,7 +63,7 @@
         "roles":["Angel"]
     },
     "Farfledarf" : {
-        "roles":["Angel"]
+        "roles":["Angel", "Host"]
     },
     "Steel_Prism" : {
         "roles":["Angel"]
@@ -84,7 +84,7 @@
         "roles":["Angel"]
     },
     "ShantyShark" : {
-        "roles":["Angel"]
+        "roles":["Angel", "DJ"]
     },
     "SC_GAL" : {
         "roles":["Angel"]
@@ -117,7 +117,7 @@
         "roles":["Security"]
     },
     "Nick Zephyr" : {
-        "roles":["Security"]
+        "roles":["Security", "Host"]
     },
     "Mad Bazz" : {
         "roles":["Security"]
@@ -127,5 +127,29 @@
     },
     "Juggernaut38" : {
         "roles":["Security"]
+    },
+    "Pathfinder11" : {
+        "roles":["Host"]
+    },
+    "Flutterhawk ™" : {
+        "roles":["Host"]
+    },
+    "|| xQueenKarma" : {
+        "roles":["Host"]
+    },
+    "BladeMaster42" : {
+        "roles":["Host"]
+    },
+    "BritishRespawn" : {
+        "roles":["Host"]
+    },
+    "MiokaCytal" : {
+        "roles":["Host"]
+    },
+    "Arclock" : {
+        "roles":["Host"]
+    },
+    "DementedEsper" : {
+        "roles":["DJ"]
     }
 }
