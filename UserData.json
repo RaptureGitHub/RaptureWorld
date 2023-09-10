@@ -66,7 +66,7 @@
         "roles":["Angel", "Host"]
     },
     "Steel_Prism" : {
-        "roles":["Angel"]
+        "roles":["Angel", "Supervisor"]
     },
     "Ziggor" : {
         "roles":["Angel"]
@@ -172,6 +172,12 @@
         "roles":["MapMaker"]
     },
     "-Tessia-" : {
+        "roles":["Angel"]
+    },
+    "-Shizuka-" : {
+        "roles":["Angel"]
+    },
+    "zundapalex" : {
         "roles":["Angel"]
     }
 }
