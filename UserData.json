@@ -12,7 +12,7 @@
         "roles":["Angel"]
     },
     "Lamia Doll" : {
-        "roles":["Angel"]
+        "roles":["Angel", "DJ"]
     },
     "Innocentlyy" : {
         "roles":["Angel", "Security", "DJ"]
@@ -108,7 +108,7 @@
     "The Urge" : {
         "roles":["Security", "Supervisor"]
     },
-    "CobaltJB" : {
+    "Lizzy JB" : {
         "roles":["Security", "Supervisor"]
     },
     "DarkXieon" : {
@@ -130,6 +130,9 @@
         "roles":["Security"]
     },
     "Juggernaut38" : {
+        "roles":["Security"]
+    },
+    "RustySpoonz1" : {
         "roles":["Security"]
     },
     "Pathfinder11" : {
@@ -178,6 +181,9 @@
         "roles":["Angel"]
     },
     "zundapalex" : {
+        "roles":["Angel"]
+    },
+    "Acyn_Ryse" : {
         "roles":["Angel"]
     }
 }
