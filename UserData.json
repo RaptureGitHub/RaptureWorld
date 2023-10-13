@@ -150,6 +150,9 @@
     "BritishRespawn" : {
         "roles":["Host"]
     },
+    "EmpressSanaki" : {
+        "roles":["Host"]
+    },
     "MiokaCytal" : {
         "roles":["Host"]
     },
