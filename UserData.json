@@ -188,5 +188,8 @@
     },
     "Acyn_Ryse" : {
         "roles":["Angel"]
+    },
+    "TakuVR" : {
+        "roles":["Supervisor", "Temp"]
     }
 }
