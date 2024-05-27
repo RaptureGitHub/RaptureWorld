@@ -65,8 +65,7 @@
     },
     "Cliptic_7": {
         "roles": [
-            "Security",
-            "Host"
+            "Security"
         ]
     },
     "Deathzer1": {
@@ -577,8 +576,7 @@
     },
     "Farfledarf": {
         "roles": [
-            "Angel",
-            "Host"
+            "Angel"
         ],
         "poster": {
             "name": "Farfledarf",
@@ -1204,14 +1202,29 @@
             "Angel"
         ]
     },
-    "Minxy-doll": {
+    "Jinxberry": {
         "roles": [
             "Angel"
         ]
     },
-    "Jinxberry": {
+    "NoxP": {
         "roles": [
             "Angel"
+        ]
+    },
+    "Gyabi": {
+        "roles": [
+            "Angel"
+        ]
+    },
+    "nateghila": {
+        "roles": [
+            "Host"
+        ]
+    },
+    "MintPlz": {
+        "roles": [
+            "Host"
         ]
     }
 }
