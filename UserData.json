@@ -252,7 +252,8 @@
   "≺Harmony≻": {
     "roles": [
       "Angel",
-      "DJ"
+      "DJ",
+      "Supervisor"
     ],
     "poster": {
       "name": "≺Harmony≻",
@@ -448,6 +449,7 @@
   "Flutterhawk ™": {
     "roles": [
       "Demon",
+      "DJ",
       "Supervisor",
       "Host"
     ],
@@ -738,6 +740,12 @@
   "Ælfheyh": {
     "roles": [
       "Demon"
+    ]
+  },
+  "Qundon": {
+    "roles": [
+      "DJ",
+      "Security"
     ]
   }
 }
