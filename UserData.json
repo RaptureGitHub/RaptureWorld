@@ -27,11 +27,6 @@
       "textureScale": [0.5, 0.5]
     }
   },
-  "Cliptic_7": {
-    "roles": [
-      "Security"
-    ]
-  },
   "Deathzer1": {
     "roles": [
       "Angel"
@@ -224,12 +219,6 @@
       "textureScale": [0.5, 0.5]
     }
   },
-  "Innocentlyy": {
-    "roles": [
-      "DJ",
-      "Security"
-    ]
-  },
   "Dawnday": {
     "roles": [
       "Angel"
@@ -243,11 +232,6 @@
       "textureOffset": [0.5, 0],
       "textureScale": [0.5, 0.5]
     }
-  },
-  "DecafCoffee": {
-    "roles": [
-      "Angel"
-    ]
   },
   "≺Harmony≻": {
     "roles": [
@@ -311,20 +295,6 @@
       "Supervisor"
     ]
   },
-  "ShantyShark": {
-    "roles": [
-      "DJ"
-    ],
-    "poster": {
-      "name": "ShantyShark",
-      "id": 4,
-      "position": [-249.58, 8.8, -445.44],
-      "rotation": [90, 360, 91.96301],
-      "scale": [0.2, 0.2, 0.2],
-      "textureOffset": [0.5, 0],
-      "textureScale": [0.5, 0.5]
-    }
-  },
   "Zesshi Zetsumei": {
     "roles": [
       "Security",
@@ -356,11 +326,11 @@
     ],
     "poster": {
       "name": "The Urge",
-      "id": 5,
+      "id": 4,
       "position": [-207.71, 0.34, 595.19],
       "rotation": [90, 360, 0],
       "scale": [0.2, 0.2, 0.2],
-      "textureOffset": [0, 0.5],
+      "textureOffset": [0.5, 0],
       "textureScale": [0.5, 0.5]
     }
   },
@@ -375,7 +345,7 @@
       "position": [-209.99, 0.34, 595.26],
       "rotation": [90, 360, 0],
       "scale": [0.2, 0.2, 0.2],
-      "textureOffset": [0.5, 0.5],
+      "textureOffset": [0, 0.5],
       "textureScale": [0.5, 0.5]
     }
   },
@@ -391,7 +361,7 @@
       "position": [-265.38, 6.47, -473.18],
       "rotation": [90, 360, 53.282],
       "scale": [0.2, 0.2, 0.2],
-      "textureOffset": [0, 0],
+      "textureOffset": [0.5, 0.5],
       "textureScale": [0.5, 0.5]
     }
   },
@@ -416,7 +386,7 @@
       "position": [-268.98, 1.65, -453.1],
       "rotation": [90, 360, 270],
       "scale": [0.2, 0.2, 0.2],
-      "textureOffset": [0.5, 0],
+      "textureOffset": [0, 0],
       "textureScale": [0.5, 0.5]
     }
   },
@@ -455,11 +425,11 @@
     ],
     "poster": {
       "name": "Flutterhawk ™",
-      "id": 6,
+      "id": 5,
       "position": [-268.98, 6.22, -453.1],
       "rotation": [90, 360, 270],
       "scale": [0.2, 0.2, 0.2],
-      "textureOffset": [0, 0.5],
+      "textureOffset": [0.5, 0],
       "textureScale": [0.5, 0.5]
     }
   },
@@ -476,7 +446,7 @@
       "position": [-263.95, 6.47, -471.19],
       "rotation": [90, 360, 53.282],
       "scale": [0.2, 0.2, 0.2],
-      "textureOffset": [0.5, 0.5],
+      "textureOffset": [0, 0.5],
       "textureScale": [0.5, 0.5]
     }
   },
@@ -491,7 +461,7 @@
       "position": [-268.98, 6.22, -440.55],
       "rotation": [90, 360, 270],
       "scale": [0.2, 0.2, 0.2],
-      "textureOffset": [0, 0],
+      "textureOffset": [0.5, 0.5],
       "textureScale": [0.5, 0.5]
     }
   },
@@ -516,7 +486,7 @@
       "position": [-268.98, 3.94, -453.1],
       "rotation": [90, 360, 270],
       "scale": [0.2, 0.2, 0.2],
-      "textureOffset": [0.5, 0],
+      "textureOffset": [0, 0],
       "textureScale": [0.5, 0.5]
     }
   },
@@ -534,13 +504,6 @@
   },
   "HcgRandon": {
     "roles": [
-      "Supervisor",
-      "MapMaker"
-    ]
-  },
-  "KittyMixikins": {
-    "roles": [
-      "Supervisor",
       "MapMaker"
     ]
   },
@@ -557,11 +520,6 @@
       "Security",
       "Supervisor",
       "Host",
-      "MapMaker"
-    ]
-  },
-  "Fawnit": {
-    "roles": [
       "MapMaker"
     ]
   },
@@ -669,6 +627,7 @@
   },
   "The Temptress": {
     "roles": [
+      "Angel",
       "Demon"
     ]
   },
@@ -678,16 +637,6 @@
     ]
   },
   "NeroMastic": {
-    "roles": [
-      "Angel"
-    ]
-  },
-  "Empress Lilith": {
-    "roles": [
-      "Angel"
-    ]
-  },
-  "Eatz~": {
     "roles": [
       "Angel"
     ]
@@ -746,6 +695,16 @@
     "roles": [
       "DJ",
       "Security"
+    ]
+  },
+  "Celphyra": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "~Wispy~": {
+    "roles": [
+      "Demon"
     ]
   }
 }
