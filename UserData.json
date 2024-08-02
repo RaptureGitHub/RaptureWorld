@@ -594,11 +594,6 @@
       "Demon"
     ]
   },
-  "ja-senpai": {
-    "roles": [
-      "Demon"
-    ]
-  },
   "Carpa": {
     "roles": [
       "Angel",
@@ -673,6 +668,7 @@
   },
   "MintPlz": {
     "roles": [
+      "Demon",
       "Host"
     ]
   },
@@ -693,18 +689,29 @@
   },
   "Qundon": {
     "roles": [
+      "Demon",
       "DJ",
       "Security"
     ]
   },
-  "Celphyra": {
+  "Hito22": {
     "roles": [
-      "Angel"
+      "Demon"
+    ]
+  },
+  "ArcSlayerVR": {
+    "roles": [
+      "Demon"
     ]
   },
   "~Wispy~": {
     "roles": [
       "Demon"
+    ]
+  },
+  "Goatmachine5000": {
+    "roles": [
+      "Angel"
     ]
   }
 }
