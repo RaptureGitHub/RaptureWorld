@@ -235,7 +235,6 @@
   },
   "≺Harmony≻": {
     "roles": [
-      "Angel",
       "DJ",
       "Supervisor"
     ],
@@ -391,9 +390,7 @@
     }
   },
   "Mad Bazz": {
-    "roles": [
-      "Security"
-    ]
+    "roles": []
   },
   "Juggernaut38": {
     "roles": [
@@ -407,9 +404,7 @@
     ]
   },
   "CyberOoze": {
-    "roles": [
-      "Security"
-    ]
+    "roles": []
   },
   "Pathfinder11": {
     "roles": [
@@ -499,7 +494,8 @@
   "DementedEsper": {
     "roles": [
       "Demon",
-      "DJ"
+      "DJ",
+      "Security"
     ]
   },
   "HcgRandon": {
@@ -684,7 +680,8 @@
   },
   "Ælfheyh": {
     "roles": [
-      "Demon"
+      "Demon",
+      "DJ"
     ]
   },
   "Qundon": {
@@ -717,6 +714,21 @@
   "casar32": {
     "roles": [
       "Security"
+    ]
+  },
+  "remy9909": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "Drunken_Patches": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "Volcanor": {
+    "roles": [
+      "Angel"
     ]
   }
 }
