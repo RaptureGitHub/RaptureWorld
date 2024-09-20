@@ -703,7 +703,8 @@
   },
   "~Wispy~": {
     "roles": [
-      "Demon"
+      "Demon",
+      "Security"
     ]
   },
   "Goatmachine5000": {
@@ -716,7 +717,7 @@
       "Security"
     ]
   },
-  "remy9909": {
+  "Remy9909": {
     "roles": [
       "Security"
     ]
@@ -727,6 +728,11 @@
     ]
   },
   "Volcanor": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "_Torm_": {
     "roles": [
       "Angel"
     ]
