@@ -350,7 +350,8 @@
   "Carpa": {
     "roles": [
       "Angel",
-      "Demon"
+      "Demon",
+      "Supervisor"
     ]
   },
   "_InkedDJ_": {
@@ -369,8 +370,7 @@
   },
   "TINNTIM": {
     "roles": [
-      "Demon",
-      "Supervisor"
+      "Demon"
     ]
   },
   "Temptresss": {
@@ -438,7 +438,8 @@
   "Ælfheyh": {
     "roles": [
       "Demon",
-      "DJ"
+      "DJ",
+      "Supervisor"
     ]
   },
   "Qundon": {
@@ -461,7 +462,8 @@
   },
   "Goatmachine5000": {
     "roles": [
-      "Angel"
+      "Angel",
+      "Demon"
     ]
   },
   "casar32": {
@@ -488,6 +490,21 @@
   "_Torm_": {
     "roles": [
       "Angel"
+    ]
+  },
+  "ModerateWinGuy": {
+    "roles": [
+      "MapMaker"
+    ]
+  },
+  "dreamingkokiri": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "GMKonKon": {
+    "roles": [
+      "Demon"
     ]
   }
 }
