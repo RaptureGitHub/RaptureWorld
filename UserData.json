@@ -311,11 +311,6 @@
       "Supervisor"
     ]
   },
-  "jade_shadows": {
-    "roles": [
-      "Angel"
-    ]
-  },
   "Jeshie": {
     "roles": [
       "Security"
@@ -364,6 +359,7 @@
   },
   "SilverMinnie": {
     "roles": [
+      "Angel",
       "Demon",
       "Host"
     ]
@@ -497,7 +493,7 @@
       "MapMaker"
     ]
   },
-  "dreamingkokiri": {
+  "DreamingKokiri": {
     "roles": [
       "Demon"
     ]
@@ -505,6 +501,16 @@
   "GMKonKon": {
     "roles": [
       "Demon"
+    ]
+  },
+  "pumaloco": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "PrincessVee": {
+    "roles": [
+      "Angel"
     ]
   }
 }
