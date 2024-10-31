@@ -369,12 +369,6 @@
       "Demon"
     ]
   },
-  "Temptresss": {
-    "roles": [
-      "Angel",
-      "Demon"
-    ]
-  },
   "The Charnak": {
     "roles": [
       "Angel"
@@ -417,7 +411,6 @@
   },
   "MintPlz": {
     "roles": [
-      "Demon",
       "Host"
     ]
   },
@@ -511,6 +504,16 @@
   "PrincessVee": {
     "roles": [
       "Angel"
+    ]
+  },
+  "fluttershy4930": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "MoonlitAssassin  ": {
+    "roles": [
+      "Demon"
     ]
   }
 }
