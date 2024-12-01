@@ -52,7 +52,7 @@
       "Angel"
     ]
   },
-  "Lavvya": {
+  "Lavvyra": {
     "roles": [
       "Angel"
     ]
@@ -90,10 +90,7 @@
     ]
   },
   "≺Harmony≻": {
-    "roles": [
-      "DJ",
-      "Supervisor"
-    ]
+    "roles": []
   },
   "Light 思慎": {
     "roles": [
@@ -135,12 +132,6 @@
       "Security"
     ]
   },
-  "Afireseeker": {
-    "roles": [
-      "Security",
-      "Supervisor"
-    ]
-  },
   "Connver": {
     "roles": [
       "Security"
@@ -171,19 +162,11 @@
       "Security"
     ]
   },
-  "f'izzy": {
-    "roles": [
-      "Security"
-    ]
-  },
   "Nick Zephyr": {
     "roles": [
       "Security",
       "Host"
     ]
-  },
-  "Mad Bazz": {
-    "roles": []
   },
   "Juggernaut38": {
     "roles": [
@@ -194,14 +177,6 @@
   "RustySpoonz1": {
     "roles": [
       "Security"
-    ]
-  },
-  "CyberOoze": {
-    "roles": []
-  },
-  "Pathfinder11": {
-    "roles": [
-      "Host"
     ]
   },
   "Flutterhawk ™": {
@@ -223,11 +198,6 @@
   "BladeMaster42": {
     "roles": [
       "Supervisor",
-      "Host"
-    ]
-  },
-  "BritishRespawn": {
-    "roles": [
       "Host"
     ]
   },
@@ -295,11 +265,6 @@
       "Angel"
     ]
   },
-  "~ Noire ~": {
-    "roles": [
-      "DJ"
-    ]
-  },
   "EverythingBagel": {
     "roles": [
       "DJ"
@@ -307,8 +272,7 @@
   },
   "nightbreed": {
     "roles": [
-      "Angel",
-      "Supervisor"
+      "Angel"
     ]
   },
   "Jeshie": {
@@ -380,11 +344,6 @@
     ]
   },
   "MrsFlowerpot": {
-    "roles": [
-      "Angel"
-    ]
-  },
-  "arsanal": {
     "roles": [
       "Angel"
     ]
@@ -514,6 +473,11 @@
   "MoonlitAssassin": {
     "roles": [
       "Demon"
+    ]
+  },
+  "Angel_Dust": {
+    "roles": [
+      "Angel"
     ]
   }
 }
