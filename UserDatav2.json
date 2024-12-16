@@ -442,6 +442,8 @@
   },
   "ModerateWinGuy": {
     "roles": [
+      "Security",
+      "Supervisor",
       "MapMaker"
     ]
   },
