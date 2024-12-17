@@ -164,8 +164,8 @@
   },
   "Nick Zephyr": {
     "roles": [
-      "Security",
-      "Host"
+      "Host",
+      "Security"
     ]
   },
   "Juggernaut38": {
@@ -183,22 +183,22 @@
     "roles": [
       "Demon",
       "DJ",
-      "Supervisor",
-      "Host"
+      "Host",
+      "Supervisor"
     ]
   },
   "II xQueenKarma": {
     "roles": [
       "Angel",
       "Demon",
-      "Supervisor",
-      "Host"
+      "Host",
+      "Supervisor"
     ]
   },
   "BladeMaster42": {
     "roles": [
-      "Supervisor",
-      "Host"
+      "Host",
+      "Supervisor"
     ]
   },
   "EmpressSanaki": {
@@ -240,9 +240,9 @@
       "Angel",
       "Demon",
       "DJ",
+      "Host",
       "Security",
       "Supervisor",
-      "Host",
       "MapMaker"
     ]
   },
@@ -442,6 +442,7 @@
   },
   "ModerateWinGuy": {
     "roles": [
+      "Supervisor",
       "MapMaker"
     ]
   },
