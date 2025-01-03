@@ -301,9 +301,6 @@
       "Security"
     ]
   },
-  "GauShark": {
-    "roles": []
-  },
   "Carpa": {
     "roles": [
       "Angel",
@@ -316,19 +313,11 @@
       "Demon"
     ]
   },
-  "IWantBapo": {
-    "roles": []
-  },
   "SilverMinnie": {
     "roles": [
       "Angel",
       "Demon",
       "Host"
-    ]
-  },
-  "TINNTIM": {
-    "roles": [
-      "Demon"
     ]
   },
   "The Charnak": {
