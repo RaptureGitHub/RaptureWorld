@@ -362,11 +362,6 @@
       "Host"
     ]
   },
-  "MintPlz": {
-    "roles": [
-      "Host"
-    ]
-  },
   "Peenut_Knight": {
     "roles": [
       "Demon"
@@ -435,6 +430,7 @@
   },
   "ModerateWinGuy": {
     "roles": [
+      "Supervisor",
       "MapMaker"
     ]
   },
