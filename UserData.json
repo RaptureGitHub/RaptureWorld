@@ -394,7 +394,8 @@
   "~Wispy~": {
     "roles": [
       "Demon",
-      "Security"
+      "Security",
+      "Supervisor"
     ]
   },
   "Goatmachine5000": {
