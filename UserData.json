@@ -176,6 +176,7 @@
   },
   "Flutterhawk ™": {
     "roles": [
+      "Angel",
       "Demon",
       "DJ",
       "Host",
@@ -444,11 +445,6 @@
       "Angel"
     ]
   },
-  "PrincessVee": {
-    "roles": [
-      "Angel"
-    ]
-  },
   "fluttershy4930": {
     "roles": [
       "Demon"
@@ -523,6 +519,11 @@
   "ahomelesscake": {
     "roles": [
       "Security"
+    ]
+  },
+  "folixthelion": {
+    "roles": [
+      "Angel"
     ]
   }
 }
