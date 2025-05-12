@@ -556,5 +556,10 @@
     "roles": [
       "Security"
     ]
+  },
+  "dullahantrap": {
+    "roles": [
+      "Host"
+    ]
   }
 }
