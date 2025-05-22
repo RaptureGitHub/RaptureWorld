@@ -396,7 +396,8 @@
   },
   "Goatmachine5000": {
     "roles": [
-      "Angel"
+      "Angel",
+      "Security"
     ]
   },
   "casar32": {
@@ -422,9 +423,7 @@
     ]
   },
   "_Torm_": {
-    "roles": [
-      "Angel"
-    ]
+    "roles": []
   },
   "ModerateWinGuy": {
     "roles": [
@@ -444,11 +443,6 @@
   "pumaloco": {
     "roles": [
       "Angel"
-    ]
-  },
-  "fluttershy4930": {
-    "roles": [
-      "Demon"
     ]
   },
   "MoonlitAssassin": {
@@ -495,11 +489,6 @@
   "CuriousSongbird": {
     "roles": [
       "Angel"
-    ]
-  },
-  "ChromaSlip": {
-    "roles": [
-      "Demon"
     ]
   },
   "mainplays": {
