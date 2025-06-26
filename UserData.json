@@ -521,5 +521,10 @@
     "roles": [
       "Host"
     ]
+  },
+  "Skyaor": {
+    "roles": [
+      "Host"
+    ]
   }
 }
