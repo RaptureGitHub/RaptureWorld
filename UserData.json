@@ -509,6 +509,7 @@
   },
   "MoffySky": {
     "roles": [
+      "Demon",
       "Security"
     ]
   },
@@ -520,6 +521,11 @@
   "Skyaor": {
     "roles": [
       "Host"
+    ]
+  },
+  "Monolith4": {
+    "roles": [
+      "Demon"
     ]
   }
 }
