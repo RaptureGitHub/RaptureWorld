@@ -260,6 +260,7 @@
   },
   "EverythingBagel": {
     "roles": [
+      "Angel",
       "DJ",
       "Supervisor"
     ]
@@ -509,6 +510,16 @@
     ]
   },
   "RedOfRidingHood": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "Bіmbο": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "Hekkah": {
     "roles": [
       "Angel"
     ]
