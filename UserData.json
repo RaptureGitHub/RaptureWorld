@@ -148,11 +148,6 @@
       "Supervisor"
     ]
   },
-  "~Pap~": {
-    "roles": [
-      "Security"
-    ]
-  },
   "Nick Zephyr": {
     "roles": [
       "Host",
@@ -312,11 +307,6 @@
       "DJ"
     ]
   },
-  "The Charnak": {
-    "roles": [
-      "Angel"
-    ]
-  },
   "NeroMastic": {
     "roles": [
       "Angel"
@@ -328,11 +318,6 @@
     ]
   },
   "NoxP": {
-    "roles": [
-      "Angel"
-    ]
-  },
-  "Gyabi": {
     "roles": [
       "Angel"
     ]
@@ -436,12 +421,6 @@
       "Angel"
     ]
   },
-  "The Temptress": {
-    "roles": [
-      "Angel",
-      "Demon"
-    ]
-  },
   "≺Mandy≻": {
     "roles": [
       "DJ"
@@ -527,6 +506,11 @@
   "Monolith4": {
     "roles": [
       "Demon"
+    ]
+  },
+  "RedOfRidingHood": {
+    "roles": [
+      "Angel"
     ]
   }
 }
