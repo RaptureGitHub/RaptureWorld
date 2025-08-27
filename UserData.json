@@ -136,7 +136,11 @@
     ]
   },
   "DarkXieon": {
-    "roles": []
+    "roles": [
+      "Demon",
+      "Security",
+      "Supervisor"
+    ]
   },
   "Nick Zephyr": {
     "roles": [
