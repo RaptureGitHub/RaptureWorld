@@ -314,7 +314,8 @@
   },
   "NoxP": {
     "roles": [
-      "Angel"
+      "Angel",
+      "Demon"
     ]
   },
   "nateghila": {
@@ -525,6 +526,11 @@
   "- Senah -": {
     "roles": [
       "DJ"
+    ]
+  },
+  "Multi_kb_Snep": {
+    "roles": [
+      "Demon"
     ]
   }
 }
