@@ -82,11 +82,6 @@
       "Supervisor"
     ]
   },
-  "Dawnday": {
-    "roles": [
-      "Angel"
-    ]
-  },
   "Ziggor": {
     "roles": [
       "Angel"
@@ -145,12 +140,6 @@
   "Nick Zephyr": {
     "roles": [
       "Host",
-      "Security"
-    ]
-  },
-  "Juggernaut38": {
-    "roles": [
-      "Angel",
       "Security"
     ]
   },
@@ -227,11 +216,6 @@
       "MapMaker"
     ]
   },
-  "zundapalex": {
-    "roles": [
-      "Angel"
-    ]
-  },
   "Delta Dark Star": {
     "roles": [
       "Demon"
@@ -303,11 +287,6 @@
     ]
   },
   "NeroMastic": {
-    "roles": [
-      "Angel"
-    ]
-  },
-  "MrsFlowerpot": {
     "roles": [
       "Angel"
     ]
