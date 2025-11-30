@@ -28,6 +28,7 @@
   },
   "Katyzon": {
     "roles": [
+      "Angel",
       "DJ"
     ]
   },
@@ -75,19 +76,6 @@
   "Ziggor": {
     "roles": [
       "Angel"
-    ]
-  },
-  "AzureAhri": {
-    "roles": [
-      "Angel",
-      "Demon",
-      "Supervisor"
-    ]
-  },
-  "JinxyChan": {
-    "roles": [
-      "Angel",
-      "Supervisor"
     ]
   },
   "Zesshi Zetsumei": {
@@ -243,9 +231,6 @@
     "roles": [
       "Security"
     ]
-  },
-  "Stuka NT": {
-    "roles": []
   },
   "㆐Ai㆐亜維": {
     "roles": [
