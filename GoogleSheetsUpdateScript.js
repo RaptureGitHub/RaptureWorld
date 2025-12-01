@@ -3,6 +3,7 @@ const GITHUB_TOKEN = "insert_token_here"; // Replace with your GitHub token
 const GITHUB_REPO = "RaptureGitHub/RaptureWorld"; // Replace with your GitHub repo (e.g., "user/repo")
 const FILE_PATH = "UserData.json"; // Path for the JSON file in the repository
 const BRANCH = "main"; // Target branch
+  const targetSheetName = "Stafflist"; // Target Sheet
 
 /**
  * Create a debounced version of the passed function
@@ -36,6 +37,12 @@ function onEditDebounced(e){
  * Triggered when the sheet is updated.
  */
 function onEdit_(e) {
+  const editedSheet = e.source.getActiveSheet();
+
+  if (editedSheet.getName() !== targetSheetName) {
+    return; // Exit early if the wrong sheet was edited
+  }
+
   const jsonData = generateJSON(); // Generate JSON from the spreadsheet
   commitToGitHub(jsonData); // Commit the JSON to GitHub
 }
@@ -44,7 +51,8 @@ function onEdit_(e) {
  * Reads the spreadsheet data and transforms it into the desired JSON format.
  */
 function generateJSON() {
-  const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  const targetSheetName = "Stafflist";
+  const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(targetSheetName);
   const data = sheet.getDataRange().getValues();
 
   // Extract header row (roles) and data rows
