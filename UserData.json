@@ -1,122 +1,491 @@
 {
-  "DemonPoster1": {
-    "roles": []
+  "AizenDove": {
+    "roles": [
+      "Angel"
+    ]
   },
-  "DemonPoster2": {
-    "roles": []
+  "Deathzer1": {
+    "roles": [
+      "Angel"
+    ]
   },
-  "DemonPoster3": {
-    "roles": []
+  "EDM Fanatic": {
+    "roles": [
+      "Angel",
+      "Supervisor"
+    ]
   },
-  "DemonPoster4": {
-    "roles": []
+  "Eric Fandenfart": {
+    "roles": [
+      "Angel",
+      "MapMaker"
+    ]
   },
-  "DemonPoster5": {
-    "roles": []
+  "HunnieBrown": {
+    "roles": [
+      "Angel"
+    ]
   },
-  "DemonPoster6": {
-    "roles": []
+  "Katyzon": {
+    "roles": [
+      "Angel",
+      "DJ"
+    ]
   },
-  "AngelPoster1": {
-    "roles": []
+  "Katyzon2": {
+    "roles": [
+      "Angel",
+      "DJ"
+    ]
   },
-  "AngelPoster2": {
-    "roles": []
+  "Kōmori_Nix": {
+    "roles": [
+      "Angel"
+    ]
   },
-  "AngelPoster3": {
-    "roles": []
+  "Kuroki≺3": {
+    "roles": [
+      "Angel"
+    ]
   },
-  "AngelPoster4": {
-    "roles": []
+  "Lavvyra": {
+    "roles": [
+      "Angel"
+    ]
   },
-  "AngelPoster5": {
-    "roles": []
+  "NightcoreVR": {
+    "roles": [
+      "Angel",
+      "Demon"
+    ]
   },
-  "AngelPoster6": {
-    "roles": []
+  "REDACTED］": {
+    "roles": [
+      "Angel",
+      "Supervisor",
+      "MapMaker"
+    ]
   },
-  "AngelPoster7": {
-    "roles": []
+  "Steel_Prism": {
+    "roles": [
+      "Angel",
+      "Demon",
+      "Supervisor"
+    ]
   },
-  "AngelPoster8": {
-    "roles": []
+  "Ziggor": {
+    "roles": [
+      "Angel"
+    ]
   },
-  "AngelPoster9": {
-    "roles": []
+  "Zesshi Zetsumei": {
+    "roles": [
+      "Security",
+      "Supervisor",
+      "MapMaker"
+    ]
   },
-  "AngelPoster10": {
-    "roles": []
+  "Corki99": {
+    "roles": [
+      "Security"
+    ]
   },
-  "AngelPoster11": {
-    "roles": []
+  "Connver": {
+    "roles": [
+      "Security"
+    ]
   },
-  "AngelPoster12": {
-    "roles": []
+  "The Urge": {
+    "roles": [
+      "Demon",
+      "Security",
+      "Supervisor"
+    ]
   },
-  "AngelPoster13": {
-    "roles": []
+  "LizzyJB": {
+    "roles": [
+      "Security",
+      "Supervisor"
+    ]
   },
-  "AngelPoster14": {
-    "roles": []
+  "DarkXieon": {
+    "roles": [
+      "Demon",
+      "Security",
+      "Supervisor"
+    ]
   },
-  "AngelPoster15": {
-    "roles": []
+  "Nick Zephyr": {
+    "roles": [
+      "Host",
+      "Security"
+    ]
   },
-  "AngelPoster16": {
-    "roles": []
+  "RustySpoonz1": {
+    "roles": [
+      "Security"
+    ]
   },
-  "AngelPoster17": {
-    "roles": []
+  "Flutterhawk ™": {
+    "roles": [
+      "Angel",
+      "Demon",
+      "DJ",
+      "Host",
+      "Supervisor"
+    ]
   },
-  "AngelPoster18": {
-    "roles": []
+  "II xQueenKarma": {
+    "roles": [
+      "Angel",
+      "Demon",
+      "Host",
+      "Supervisor"
+    ]
   },
-  "AngelPoster19": {
-    "roles": []
+  "BladeMaster42": {
+    "roles": [
+      "Host",
+      "Supervisor"
+    ]
   },
-  "AngelPoster20": {
-    "roles": []
+  "EmpressSanaki": {
+    "roles": [
+      "Host"
+    ]
   },
-  "AngelPoster21": {
-    "roles": []
+  "MiokaCytal": {
+    "roles": [
+      "Host",
+      "Supervisor"
+    ]
   },
-  "AngelPoster22": {
-    "roles": []
+  "Arclock": {
+    "roles": [
+      "Demon",
+      "Host"
+    ]
   },
-  "AngelPoster23": {
-    "roles": []
+  "DementedEsper": {
+    "roles": [
+      "Demon",
+      "DJ",
+      "Security"
+    ]
   },
-  "Security1": {
-    "roles": []
+  "HcgRandon": {
+    "roles": [
+      "MapMaker"
+    ]
   },
-  "Security2": {
-    "roles": []
+  "Cironex": {
+    "roles": [
+      "MapMaker"
+    ]
   },
-  "Security3": {
-    "roles": []
+  "RaptureWorld": {
+    "roles": [
+      "Angel",
+      "Demon",
+      "DJ",
+      "Host",
+      "Security",
+      "Supervisor",
+      "MapMaker"
+    ]
   },
-  "DJPoster1": {
-    "roles": []
+  "Delta Dark Star": {
+    "roles": [
+      "Demon"
+    ]
   },
-  "DJPoster2": {
-    "roles": []
+  "Lunara Tsuki": {
+    "roles": [
+      "Angel"
+    ]
   },
-  "DJPoster3": {
-    "roles": []
+  "-Crest-": {
+    "roles": [
+      "Angel"
+    ]
   },
-  "HostPoster1": {
-    "roles": []
+  "EverythingBagel": {
+    "roles": [
+      "Angel",
+      "DJ",
+      "Supervisor"
+    ]
   },
-  "HostPoster2": {
-    "roles": []
+  "nightbreed": {
+    "roles": [
+      "Angel",
+      "Supervisor"
+    ]
   },
-  "HostPoster3": {
-    "roles": []
+  "Jeshie": {
+    "roles": [
+      "Security"
+    ]
   },
-  "HostPoster4": {
-    "roles": []
+  "≺ Shay_VR ≻": {
+    "roles": [
+      "Security"
+    ]
   },
-  "HostPoster5": {
-    "roles": []
+  "㆐Ai㆐亜維": {
+    "roles": [
+      "Demon",
+      "Security"
+    ]
+  },
+  "Twyingame": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "Carpa": {
+    "roles": [
+      "Angel",
+      "Demon",
+      "Supervisor"
+    ]
+  },
+  "SilverMinnie": {
+    "roles": [
+      "Angel",
+      "DJ"
+    ]
+  },
+  "NeroMastic": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "NoxP": {
+    "roles": [
+      "Angel",
+      "Demon"
+    ]
+  },
+  "nateghila": {
+    "roles": [
+      "Host"
+    ]
+  },
+  "Peenut_Knight": {
+    "roles": [
+      "Angel",
+      "Demon",
+      "Supervisor"
+    ]
+  },
+  "Chloe Fleurage": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "Ælfheyh": {
+    "roles": [
+      "Demon",
+      "DJ",
+      "Supervisor"
+    ]
+  },
+  "Qundon": {
+    "roles": [
+      "Demon",
+      "DJ",
+      "Security"
+    ]
+  },
+  "casar32": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "Remy9909": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "Drunken_Patches": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "Volcanor": {
+    "roles": [
+      "Angel",
+      "Demon",
+      "DJ"
+    ]
+  },
+  "ModerateWinGuy": {
+    "roles": [
+      "MapMaker"
+    ]
+  },
+  "DreamingKokiri": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "GMKonKon": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "pumaloco": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "Ace The Bunny": {
+    "roles": [
+      "Angel",
+      "Demon"
+    ]
+  },
+  "Lucariochu": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "≺Mandy≻": {
+    "roles": [
+      "DJ"
+    ]
+  },
+  "PandemoniumMO": {
+    "roles": [
+      "DJ"
+    ]
+  },
+  "Jinx Inks": {
+    "roles": [
+      "Angel",
+      "DJ"
+    ]
+  },
+  "CuriousSongbird": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "mainplays": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "Yehren": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "Agathos Daimon": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "ahomelesscake": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "folixthelion": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "TheGreatGouda": {
+    "roles": [
+      "Supervisor"
+    ]
+  },
+  "Afterpwn": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "MoffySky": {
+    "roles": [
+      "Demon",
+      "Security"
+    ]
+  },
+  "dullahantrap": {
+    "roles": [
+      "Host"
+    ]
+  },
+  "Skyaor": {
+    "roles": [
+      "Host"
+    ]
+  },
+  "Monolith4": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "RedOfRidingHood": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "Bіmbο": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "Kanin_KFA": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "NireiYuito": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "Shadow_Cloud_VR": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "Tsuki ☾": {
+    "roles": [
+      "DJ"
+    ]
+  },
+  "- Senah -": {
+    "roles": [
+      "DJ"
+    ]
+  },
+  "Multi_kb_Snep": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "Polychroma": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "fadetheknife": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "Evehexen": {
+    "roles": [
+      "Angel"
+    ]
+  },
+  "Athéna": {
+    "roles": [
+      "Angel"
+    ]
   }
 }
