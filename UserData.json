@@ -12,14 +12,14 @@
       "name": "-Crest-",
       "id": 0,
       "position": [
-        33.97,
+        33.474,
         14.678,
-        62.63
+        59.491
       ],
       "rotation": [
         90,
         360,
-        85.57201
+        76.992
       ],
       "scale": [
         0.2732379,
@@ -39,11 +39,6 @@
   "≺ Shay_VR ≻": {
     "roles": [
       "Security"
-    ]
-  },
-  "≺Mandy≻": {
-    "roles": [
-      "DJ"
     ]
   },
   "㆐Ai㆐亜維": {
@@ -85,40 +80,6 @@
       "Demon"
     ]
   },
-  "Ælfheyh": {
-    "roles": [
-      "Demon",
-      "DJ",
-      "Supervisor"
-    ],
-    "poster": {
-      "name": "Ælfheyh",
-      "id": 0,
-      "position": [
-        -262.49,
-        6.47,
-        -469.15
-      ],
-      "rotation": [
-        90,
-        360,
-        53.282
-      ],
-      "scale": [
-        0.2,
-        0.2,
-        0.2
-      ],
-      "textureOffset": [
-        0,
-        0
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
   "Afterpwn": {
     "roles": [
       "Security"
@@ -142,14 +103,14 @@
       "name": "AizenDove",
       "id": 0,
       "position": [
-        33.969,
-        14.678,
-        62.639
+        34.048,
+        14.651,
+        65.826
       ],
       "rotation": [
         90,
         360,
-        85.71001
+        92.891
       ],
       "scale": [
         0.2732379,
@@ -157,7 +118,7 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -184,7 +145,7 @@
     ],
     "poster": {
       "name": "BladeMaster42",
-      "id": 1,
+      "id": 0,
       "position": [
         -268.98,
         6.22,
@@ -201,8 +162,8 @@
         0.2
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -225,14 +186,14 @@
       "name": "Carpa",
       "id": 1,
       "position": [
-        11.906,
+        8.739,
         14.678,
-        44.632
+        45.473
       ],
       "rotation": [
         90,
         360,
-        -10.231
+        -20.776
       ],
       "scale": [
         0.2732379,
@@ -240,7 +201,7 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -304,8 +265,8 @@
         0.2
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -320,120 +281,6 @@
     "poster": {
       "name": "Deathzer1",
       "id": 1,
-      "position": [
-        32.51,
-        14.678,
-        56.45
-      ],
-      "rotation": [
-        90,
-        360,
-        67.541
-      ],
-      "scale": [
-        0.2732379,
-        0.1389394,
-        0.383826
-      ],
-      "textureOffset": [
-        0.5,
-        0
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
-  "Delta Dark Star": {
-    "roles": [
-      "Demon"
-    ]
-  },
-  "DementedEsper": {
-    "roles": [
-      "Demon",
-      "DJ",
-      "Security"
-    ],
-    "poster": {
-      "name": "DementedEsper",
-      "id": 2,
-      "position": [
-        -247.31,
-        6.69,
-        -446.87
-      ],
-      "rotation": [
-        90,
-        360,
-        91.96301
-      ],
-      "scale": [
-        0.2,
-        0.2,
-        0.2
-      ],
-      "textureOffset": [
-        0,
-        0.5
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
-  "DreamingKokiri": {
-    "roles": [
-      "Demon"
-    ],
-    "poster": {
-      "name": "DreamingKokiri",
-      "id": 2,
-      "position": [
-        -262.49,
-        4.13,
-        -469.15
-      ],
-      "rotation": [
-        90,
-        360,
-        53.282
-      ],
-      "scale": [
-        0.2,
-        0.2,
-        0.2
-      ],
-      "textureOffset": [
-        0.5,
-        0.5
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
-  "Drunken_Patches": {
-    "roles": [
-      "Security"
-    ]
-  },
-  "dullahantrap": {
-    "roles": [
-      "Host"
-    ]
-  },
-  "EDM Fanatic": {
-    "roles": [
-      "Angel",
-      "Supervisor"
-    ],
-    "poster": {
-      "name": "EDM Fanatic",
-      "id": 2,
       "position": [
         31.146,
         14.678,
@@ -452,6 +299,113 @@
       "textureOffset": [
         0,
         0
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "Delta Dark Star": {
+    "roles": [
+      "Demon"
+    ]
+  },
+  "DreamingKokiri": {
+    "roles": [
+      "Demon"
+    ],
+    "poster": {
+      "name": "DreamingKokiri",
+      "id": 1,
+      "position": [
+        -262.49,
+        4.13,
+        -469.15
+      ],
+      "rotation": [
+        90,
+        360,
+        53.282
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "textureOffset": [
+        0.5,
+        0
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "Drunken_Patches": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "dullahantrap": {
+    "roles": [
+      "Host"
+    ],
+    "poster": {
+      "name": "dullahantrap",
+      "id": 2,
+      "position": [
+        -267.576,
+        3.94,
+        -454.467
+      ],
+      "rotation": [
+        90,
+        360,
+        162.428
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "textureOffset": [
+        0,
+        0.5
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "EDM Fanatic": {
+    "roles": [
+      "Angel",
+      "Supervisor"
+    ],
+    "poster": {
+      "name": "EDM Fanatic",
+      "id": 2,
+      "position": [
+        29.3,
+        14.678,
+        50.98
+      ],
+      "rotation": [
+        90,
+        360,
+        50.126
+      ],
+      "scale": [
+        0.2732379,
+        0.1389394,
+        0.383826
+      ],
+      "textureOffset": [
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -482,7 +436,7 @@
         0.2
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -498,16 +452,16 @@
     ],
     "poster": {
       "name": "Eric Fandenfart",
-      "id": 3,
+      "id": 2,
       "position": [
-        29.3,
+        27.05,
         14.678,
-        50.98
+        48.69
       ],
       "rotation": [
         90,
         360,
-        50.126
+        39.804
       ],
       "scale": [
         0.2732379,
@@ -515,8 +469,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -529,40 +483,6 @@
       "Angel"
     ]
   },
-  "EverythingBagel": {
-    "roles": [
-      "Angel",
-      "DJ",
-      "Supervisor"
-    ],
-    "poster": {
-      "name": "EverythingBagel",
-      "id": 3,
-      "position": [
-        -249.58,
-        8.8,
-        -445.44
-      ],
-      "rotation": [
-        90,
-        360,
-        91.96301
-      ],
-      "scale": [
-        0.2,
-        0.2,
-        0.2
-      ],
-      "textureOffset": [
-        0.5,
-        0.5
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
   "fadetheknife": {
     "roles": [
       "Angel"
@@ -571,14 +491,14 @@
       "name": "fadetheknife",
       "id": 3,
       "position": [
-        -3.38,
+        -2.284,
         14.678,
-        68.962
+        56.443
       ],
       "rotation": [
         90,
         360,
-        -99.716
+        -68.581
       ],
       "scale": [
         0.2732379,
@@ -587,7 +507,7 @@
       ],
       "textureOffset": [
         0,
-        0
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -623,7 +543,7 @@
       ],
       "textureOffset": [
         0.5,
-        0
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -652,16 +572,16 @@
     ],
     "poster": {
       "name": "HunnieBrown",
-      "id": 4,
+      "id": 3,
       "position": [
-        27.05,
+        24.485,
         14.678,
-        48.69
+        46.852
       ],
       "rotation": [
         90,
         360,
-        39.804
+        31.127
       ],
       "scale": [
         0.2732379,
@@ -670,7 +590,7 @@
       ],
       "textureOffset": [
         0,
-        0.5
+        0
       ],
       "textureScale": [
         0.5,
@@ -687,7 +607,7 @@
     ],
     "poster": {
       "name": "II xQueenKarma",
-      "id": 4,
+      "id": 3,
       "position": [
         -263.95,
         6.47,
@@ -705,7 +625,7 @@
       ],
       "textureOffset": [
         0.5,
-        0.5
+        0
       ],
       "textureScale": [
         0.5,
@@ -714,11 +634,6 @@
     }
   },
   "iKisa": {
-    "roles": [
-      "Security"
-    ]
-  },
-  "Jeshie": {
     "roles": [
       "Security"
     ]
@@ -743,14 +658,14 @@
       "name": "Katyzon",
       "id": 4,
       "position": [
-        24.485,
+        21.54,
         14.678,
-        46.852
+        45.49
       ],
       "rotation": [
         90,
         360,
-        31.127
+        19.649
       ],
       "scale": [
         0.2732379,
@@ -759,7 +674,7 @@
       ],
       "textureOffset": [
         0,
-        0
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -792,7 +707,7 @@
       ],
       "textureOffset": [
         0.5,
-        0
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -806,39 +721,7 @@
     ],
     "poster": {
       "name": "Kōmori_Nix",
-      "id": 5,
-      "position": [
-        18.36,
-        14.678,
-        44.61
-      ],
-      "rotation": [
-        90,
-        360,
-        11.294
-      ],
-      "scale": [
-        0.2732379,
-        0.1389394,
-        0.383826
-      ],
-      "textureOffset": [
-        0,
-        0.5
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
-  "Kuroki≺3": {
-    "roles": [
-      "Angel"
-    ],
-    "poster": {
-      "name": "Kuroki≺3",
-      "id": 5,
+      "id": 4,
       "position": [
         15.133,
         14.678,
@@ -855,8 +738,40 @@
         0.383826
       ],
       "textureOffset": [
+        0,
+        0
+      ],
+      "textureScale": [
         0.5,
         0.5
+      ]
+    }
+  },
+  "Kuroki≺3": {
+    "roles": [
+      "Angel"
+    ],
+    "poster": {
+      "name": "Kuroki≺3",
+      "id": 4,
+      "position": [
+        11.906,
+        14.678,
+        44.632
+      ],
+      "rotation": [
+        90,
+        360,
+        -10.231
+      ],
+      "scale": [
+        0.2732379,
+        0.1389394,
+        0.383826
+      ],
+      "textureOffset": [
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -872,14 +787,14 @@
       "name": "Lavvyra",
       "id": 5,
       "position": [
-        8.739,
+        5.789,
         14.678,
-        45.473
+        46.84
       ],
       "rotation": [
         90,
         360,
-        -20.776
+        -30.277
       ],
       "scale": [
         0.2732379,
@@ -888,40 +803,7 @@
       ],
       "textureOffset": [
         0,
-        0
-      ],
-      "textureScale": [
-        0.5,
         0.5
-      ]
-    }
-  },
-  "LizzyJB": {
-    "roles": [
-      "Security",
-      "Supervisor"
-    ],
-    "poster": {
-      "name": "LizzyJB",
-      "id": 5,
-      "position": [
-        -209.99,
-        0.34,
-        595.26
-      ],
-      "rotation": [
-        90,
-        360,
-        0
-      ],
-      "scale": [
-        0.2,
-        0.2,
-        0.2
-      ],
-      "textureOffset": [
-        0.5,
-        0
       ],
       "textureScale": [
         0.5,
@@ -935,7 +817,7 @@
     ],
     "poster": {
       "name": "Lucariochu",
-      "id": 6,
+      "id": 5,
       "position": [
         -3.762,
         14.678,
@@ -952,7 +834,7 @@
         0.383826
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -967,16 +849,16 @@
     ],
     "poster": {
       "name": "Lunara Tsuki",
-      "id": 6,
+      "id": 5,
       "position": [
-        3.209,
+        33.97,
         14.678,
-        48.69
+        62.63
       ],
       "rotation": [
         90,
         360,
-        -39.934
+        85.57201
       ],
       "scale": [
         0.2732379,
@@ -984,8 +866,8 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1005,7 +887,7 @@
     ],
     "poster": {
       "name": "MiokaCytal",
-      "id": 6,
+      "id": 5,
       "position": [
         -268.98,
         3.94,
@@ -1022,7 +904,7 @@
         0.2
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1030,11 +912,6 @@
         0.5
       ]
     }
-  },
-  "ModerateWinGuy": {
-    "roles": [
-      "MapMaker"
-    ]
   },
   "MoffySky": {
     "roles": [
@@ -1055,7 +932,34 @@
   "nateghila": {
     "roles": [
       "Host"
-    ]
+    ],
+    "poster": {
+      "name": "nateghila",
+      "id": 6,
+      "position": [
+        -267.576,
+        6.22,
+        -454.467
+      ],
+      "rotation": [
+        90,
+        360,
+        162.428
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "textureOffset": [
+        0,
+        0.5
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
   },
   "NeroMastic": {
     "roles": [
@@ -1065,14 +969,14 @@
       "name": "NeroMastic",
       "id": 6,
       "position": [
-        5.789,
+        5.8,
         14.678,
-        46.84
+        46.83
       ],
       "rotation": [
         90,
         360,
-        -30.277
+        -30.541
       ],
       "scale": [
         0.2732379,
@@ -1081,7 +985,7 @@
       ],
       "textureOffset": [
         0.5,
-        0
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1096,7 +1000,7 @@
     ],
     "poster": {
       "name": "Nick Zephyr",
-      "id": 7,
+      "id": 6,
       "position": [
         -268.98,
         1.65,
@@ -1114,7 +1018,7 @@
       ],
       "textureOffset": [
         0,
-        0.5
+        0
       ],
       "textureScale": [
         0.5,
@@ -1129,16 +1033,87 @@
     ],
     "poster": {
       "name": "nightbreed",
-      "id": 7,
+      "id": 6,
       "position": [
-        33.474,
+        32.51,
         14.678,
-        59.491
+        56.45
       ],
       "rotation": [
         90,
         360,
-        76.992
+        67.541
+      ],
+      "scale": [
+        0.2732379,
+        0.1389394,
+        0.383826
+      ],
+      "textureOffset": [
+        0.5,
+        0
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "NightcoreVR": {
+    "roles": [
+      "Angel",
+      "Demon"
+    ],
+    "poster": {
+      "name": "NightcoreVR",
+      "id": 7,
+      "position": [
+        3.209,
+        14.678,
+        48.69
+      ],
+      "rotation": [
+        90,
+        360,
+        -39.934
+      ],
+      "scale": [
+        0.2732379,
+        0.1389394,
+        0.383826
+      ],
+      "textureOffset": [
+        0,
+        0.5
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "NireiYuito": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "NoxP": {
+    "roles": [
+      "Angel",
+      "Demon"
+    ],
+    "poster": {
+      "name": "NoxP",
+      "id": 7,
+      "position": [
+        -3.38,
+        14.678,
+        68.962
+      ],
+      "rotation": [
+        90,
+        360,
+        -99.716
       ],
       "scale": [
         0.2732379,
@@ -1155,13 +1130,19 @@
       ]
     }
   },
-  "NightcoreVR": {
+  "PandemoniumMO": {
+    "roles": [
+      "DJ"
+    ]
+  },
+  "Peenut_Knight": {
     "roles": [
       "Angel",
-      "Demon"
+      "Demon",
+      "Supervisor"
     ],
     "poster": {
-      "name": "NightcoreVR",
+      "name": "Peenut_Knight",
       "id": 7,
       "position": [
         0.973,
@@ -1188,83 +1169,6 @@
       ]
     }
   },
-  "NireiYuito": {
-    "roles": [
-      "Security"
-    ]
-  },
-  "NoxP": {
-    "roles": [
-      "Angel",
-      "Demon"
-    ],
-    "poster": {
-      "name": "NoxP",
-      "id": 7,
-      "position": [
-        -3.762,
-        14.678,
-        65.809
-      ],
-      "rotation": [
-        90,
-        360,
-        -93.23601
-      ],
-      "scale": [
-        0.2732379,
-        0.1389394,
-        0.383826
-      ],
-      "textureOffset": [
-        0.5,
-        0
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
-  "PandemoniumMO": {
-    "roles": [
-      "DJ"
-    ]
-  },
-  "Peenut_Knight": {
-    "roles": [
-      "Angel",
-      "Demon",
-      "Supervisor"
-    ],
-    "poster": {
-      "name": "Peenut_Knight",
-      "id": 8,
-      "position": [
-        -0.874,
-        14.678,
-        53.579
-      ],
-      "rotation": [
-        90,
-        360,
-        -59.48
-      ],
-      "scale": [
-        0.2732379,
-        0.1389394,
-        0.383826
-      ],
-      "textureOffset": [
-        0,
-        0.5
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
   "Polychroma": {
     "roles": [
       "Demon"
@@ -1276,7 +1180,7 @@
     ],
     "poster": {
       "name": "pumaloco",
-      "id": 8,
+      "id": 7,
       "position": [
         -3.71,
         14.678,
@@ -1294,7 +1198,7 @@
       ],
       "textureOffset": [
         0.5,
-        0.5
+        0
       ],
       "textureScale": [
         0.5,
@@ -1328,7 +1232,37 @@
       ],
       "textureOffset": [
         0,
-        0
+        0.5
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "Qundon2": {
+    "roles": [],
+    "poster": {
+      "name": "Qundon2",
+      "id": 8,
+      "position": [
+        -247.31,
+        6.69,
+        -446.87
+      ],
+      "rotation": [
+        90,
+        360,
+        91.96301
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "textureOffset": [
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1372,7 +1306,7 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -1401,16 +1335,37 @@
       "Angel"
     ]
   },
-  "SilverMinnie": {
-    "roles": [
-      "Angel",
-      "DJ"
-    ]
-  },
   "Skyaor": {
     "roles": [
       "Host"
-    ]
+    ],
+    "poster": {
+      "name": "Skyaor",
+      "id": 8,
+      "position": [
+        -256.09,
+        3.94,
+        -458.11
+      ],
+      "rotation": [
+        90,
+        360,
+        162.428
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "textureOffset": [
+        0.5,
+        0
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
   },
   "Steel_Prism": {
     "roles": [
@@ -1422,14 +1377,14 @@
       "name": "Steel_Prism",
       "id": 9,
       "position": [
-        21.54,
+        18.36,
         14.678,
-        45.49
+        44.61
       ],
       "rotation": [
         90,
         360,
-        19.649
+        11.294
       ],
       "scale": [
         0.2732379,
@@ -1506,14 +1461,14 @@
       "name": "Volcanor",
       "id": 9,
       "position": [
-        -2.284,
+        -0.874,
         14.678,
-        56.443
+        53.579
       ],
       "rotation": [
         90,
         360,
-        -68.581
+        -59.48
       ],
       "scale": [
         0.2732379,
