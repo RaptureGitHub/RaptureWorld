@@ -598,41 +598,6 @@
       ]
     }
   },
-  "II xQueenKarma": {
-    "roles": [
-      "Angel",
-      "Demon",
-      "Supervisor",
-      "Host"
-    ],
-    "poster": {
-      "name": "II xQueenKarma",
-      "id": 3,
-      "position": [
-        -268.996,
-        3.626,
-        -468.135
-      ],
-      "rotation": [
-        90,
-        360,
-        -88.768
-      ],
-      "scale": [
-        0.2,
-        0.2,
-        0.2
-      ],
-      "textureOffset": [
-        0.5,
-        0
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
   "iKisa": {
     "roles": [
       "Security"
@@ -656,7 +621,7 @@
     ],
     "poster": {
       "name": "Katyzon",
-      "id": 4,
+      "id": 3,
       "position": [
         24.485,
         14.678,
@@ -673,8 +638,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -706,7 +671,7 @@
         0.2
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -738,8 +703,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -770,7 +735,7 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -785,7 +750,7 @@
     ],
     "poster": {
       "name": "Lavvyra",
-      "id": 5,
+      "id": 4,
       "position": [
         8.739,
         14.678,
@@ -802,8 +767,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -834,7 +799,7 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -866,8 +831,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -904,7 +869,7 @@
         0.2
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -935,7 +900,7 @@
     ],
     "poster": {
       "name": "nateghila",
-      "id": 6,
+      "id": 5,
       "position": [
         -256.116,
         3.94,
@@ -952,8 +917,8 @@
         0.2
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -984,7 +949,7 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1017,8 +982,8 @@
         0.2
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1050,7 +1015,7 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -1066,7 +1031,7 @@
     ],
     "poster": {
       "name": "NightcoreVR",
-      "id": 7,
+      "id": 6,
       "position": [
         3.209,
         14.678,
@@ -1083,8 +1048,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1121,7 +1086,7 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1160,8 +1125,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1197,7 +1162,7 @@
         0.383826
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -1214,7 +1179,7 @@
     ],
     "poster": {
       "name": "Qundon",
-      "id": 8,
+      "id": 7,
       "position": [
         -263.95,
         4.13,
@@ -1231,8 +1196,8 @@
         0.2
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1261,7 +1226,7 @@
         0.2
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1306,8 +1271,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1358,7 +1323,7 @@
         0.2
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -1375,7 +1340,7 @@
     ],
     "poster": {
       "name": "Steel_Prism",
-      "id": 9,
+      "id": 8,
       "position": [
         21.54,
         14.678,
@@ -1392,8 +1357,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1426,7 +1391,7 @@
         0.2
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1476,8 +1441,8 @@
         0.383826
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
