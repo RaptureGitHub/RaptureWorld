@@ -37,9 +37,7 @@
     }
   },
   "≺ Shay_VR ≻": {
-    "roles": [
-      "Security"
-    ]
+    "roles": []
   },
   "㆐Ai㆐亜維": {
     "roles": [
@@ -556,11 +554,6 @@
       "Angel"
     ]
   },
-  "GMKonKon": {
-    "roles": [
-      "Demon"
-    ]
-  },
   "HcgRandon": {
     "roles": [
       "MapMaker"
@@ -603,15 +596,22 @@
       "Security"
     ]
   },
+  "Jade The Fox": {
+    "roles": [
+      "Demon"
+    ]
+  },
   "Jinx Inks": {
     "roles": [
       "Angel",
-      "DJ"
+      "DJ",
+      "Supervisor"
     ]
   },
   "Kanin_KFA": {
     "roles": [
-      "Angel"
+      "Angel",
+      "DJ"
     ]
   },
   "Katyzon": {
@@ -776,6 +776,11 @@
       ]
     }
   },
+  "Lizzy Fur": {
+    "roles": [
+      "Demon"
+    ]
+  },
   "Lucariochu": {
     "roles": [
       "Angel"
@@ -842,7 +847,8 @@
   },
   "mainplays": {
     "roles": [
-      "Demon"
+      "Demon",
+      "Supervisor"
     ]
   },
   "MiokaCytal": {
@@ -880,13 +886,13 @@
   },
   "MoffySky": {
     "roles": [
-      "Demon",
-      "Security"
+      "Demon"
     ]
   },
   "Monolith4": {
     "roles": [
-      "Demon"
+      "Demon",
+      "Security"
     ]
   },
   "Multi_kb_Snep": {
@@ -1411,9 +1417,7 @@
     ]
   },
   "Twyingame": {
-    "roles": [
-      "Security"
-    ]
+    "roles": []
   },
   "Volcanor": {
     "roles": [
@@ -1465,6 +1469,16 @@
   "Ziggor": {
     "roles": [
       "Angel"
+    ]
+  },
+  "VelvetcakeVR": {
+    "roles": [
+      "Security"
+    ]
+  },
+  "Virenthemage": {
+    "roles": [
+      "Security"
     ]
   }
 }
