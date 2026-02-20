@@ -12,7 +12,7 @@
       "name": "-Crest-",
       "id": 0,
       "position": [31.733, 3.644, 58.263],
-      "rotation": [0, 0, 90],
+      "rotation": [90, 0, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0.5],
       "textureScale": [0.5, 0.5]
@@ -65,7 +65,7 @@
       "name": "AizenDove",
       "id": 0,
       "position": [31.733, 3.644, 63.902],
-      "rotation": [0, 0, 90],
+      "rotation": [90, 0, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0],
       "textureScale": [0.5, 0.5]
@@ -112,7 +112,7 @@
       "name": "Carpa",
       "id": 1,
       "position": [6.55, 3.64, 61.12],
-      "rotation": [0, 180, 90],
+      "rotation": [90, 180, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0.5],
       "textureScale": [0.5, 0.5]
@@ -172,7 +172,7 @@
       "name": "Deathzer1",
       "id": 1,
       "position": [31.733, 3.644, 51.36],
-      "rotation": [0, 0, 90],
+      "rotation": [90, 0, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0],
       "textureScale": [0.5, 0.5]
@@ -225,7 +225,7 @@
       "name": "EDM Fanatic",
       "id": 2,
       "position": [31.733, 3.644, 45.71],
-      "rotation": [0, 0, 90],
+      "rotation": [90, 0, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0.5, 0.5],
       "textureScale": [0.5, 0.5]
@@ -254,7 +254,7 @@
       "name": "Eric Fandenfart",
       "id": 2,
       "position": [31.733, 3.644, 48.57],
-      "rotation": [0, 0, 90],
+      "rotation": [90, 0, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0.5, 0],
       "textureScale": [0.5, 0.5]
@@ -315,7 +315,7 @@
       "name": "HunnieBrown",
       "id": 3,
       "position": [6.55, 3.64, 45.815],
-      "rotation": [0, 180, 90],
+      "rotation": [90, 180, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0],
       "textureScale": [0.5, 0.5]
@@ -353,7 +353,7 @@
       "name": "Katyzon",
       "id": 3,
       "position": [6.55, 3.64, 48.617],
-      "rotation": [0, 180, 90],
+      "rotation": [90, 180, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0.5, 0],
       "textureScale": [0.5, 0.5]
@@ -382,7 +382,7 @@
       "name": "Kōmori_Nix",
       "id": 4,
       "position": [6.55, 3.64, 55.45],
-      "rotation": [0, 180, 90],
+      "rotation": [90, 180, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0.5, 0.5],
       "textureScale": [0.5, 0.5]
@@ -396,7 +396,7 @@
       "name": "Kuroki≺3",
       "id": 4,
       "position": [6.55, 3.64, 58.28],
-      "rotation": [0, 180, 90],
+      "rotation": [90, 180, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0],
       "textureScale": [0.5, 0.5]
@@ -410,7 +410,7 @@
       "name": "Lavvyra",
       "id": 4,
       "position": [6.55, 3.64, 63.89],
-      "rotation": [0, 180, 90],
+      "rotation": [90, 180, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0.5, 0],
       "textureScale": [0.5, 0.5]
@@ -443,7 +443,7 @@
       "name": "Lunara Tsuki",
       "id": 5,
       "position": [31.733, 3.644, 61.109],
-      "rotation": [0, 0, 90],
+      "rotation": [90, 0, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0.5, 0.5],
       "textureScale": [0.5, 0.5]
@@ -508,7 +508,7 @@
       "name": "NeroMastic",
       "id": 6,
       "position": [7.988, 9.332, 75.149],
-      "rotation": [0, 270, 90],
+      "rotation": [90, 270, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0.5],
       "textureScale": [0.5, 0.5]
@@ -538,7 +538,7 @@
       "name": "nightbreed",
       "id": 6,
       "position": [31.733, 3.644, 55.448],
-      "rotation": [0, 0, 90],
+      "rotation": [90, 0, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0],
       "textureScale": [0.5, 0.5]
@@ -553,7 +553,7 @@
       "name": "NightcoreVR",
       "id": 6,
       "position": [10.693, 9.332, 75.149],
-      "rotation": [0, 270, 90],
+      "rotation": [90, 270, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0.5, 0],
       "textureScale": [0.5, 0.5]
@@ -594,7 +594,7 @@
       "name": "Peenut_Knight",
       "id": 7,
       "position": [13.37, 9.332, 75.149],
-      "rotation": [0, 270, 90],
+      "rotation": [90, 270, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0.5, 0.5],
       "textureScale": [0.5, 0.5]
@@ -709,7 +709,7 @@
       "name": "Steel_Prism",
       "id": 8,
       "position": [6.55, 3.64, 51.47],
-      "rotation": [0, 180, 90],
+      "rotation": [90, 180, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0],
       "textureScale": [0.5, 0.5]
@@ -755,7 +755,7 @@
       "name": "Volcanor",
       "id": 9,
       "position": [24.977, 9.332, 75.149],
-      "rotation": [0, 270, 90],
+      "rotation": [90, 270, 90],
       "scale": [0.155383, 0.1595517, 0.2355572],
       "textureOffset": [0, 0.5],
       "textureScale": [0.5, 0.5]
