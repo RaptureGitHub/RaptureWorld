@@ -88,7 +88,34 @@
     "roles": [
       "Demon",
       "Host"
-    ]
+    ],
+    "poster": {
+      "name": "Arclock",
+      "id": 0,
+      "position": [
+        -280.009,
+        2.536,
+        -450.541
+      ],
+      "rotation": [
+        90,
+        0,
+        -17.251
+      ],
+      "scale": [
+        0.1237887,
+        0.1535921,
+        0.1872288
+      ],
+      "textureOffset": [
+        0,
+        0
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
   },
   "Athéna": {
     "roles": [
@@ -119,7 +146,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -141,7 +168,7 @@
     ],
     "poster": {
       "name": "Carpa",
-      "id": 0,
+      "id": 1,
       "position": [
         6.55,
         3.64,
@@ -158,8 +185,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -190,7 +217,7 @@
         0.3973188
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -244,8 +271,8 @@
         0.3973188
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -276,7 +303,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -296,7 +323,7 @@
     ],
     "poster": {
       "name": "DreamingKokiri",
-      "id": 1,
+      "id": 2,
       "position": [
         17.884,
         2.36,
@@ -313,8 +340,8 @@
         0.3973188
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -351,7 +378,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -383,8 +410,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -416,7 +443,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -440,7 +467,7 @@
     ],
     "poster": {
       "name": "Flutterhawk ™",
-      "id": 2,
+      "id": 3,
       "position": [
         -278.442,
         2.502,
@@ -457,8 +484,8 @@
         0.1944243
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -487,7 +514,7 @@
         0.2170865
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -524,8 +551,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -580,7 +607,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -596,7 +623,7 @@
     ],
     "poster": {
       "name": "Katyzon2",
-      "id": 3,
+      "id": 4,
       "position": [
         -252.284,
         5.776,
@@ -613,8 +640,8 @@
         0.2137636
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -645,7 +672,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -677,8 +704,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -709,7 +736,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -729,7 +756,7 @@
     ],
     "poster": {
       "name": "Lucariochu",
-      "id": 4,
+      "id": 5,
       "position": [
         23.354,
         7.905,
@@ -746,8 +773,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -778,7 +805,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -811,8 +838,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -859,7 +886,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -875,7 +902,7 @@
     ],
     "poster": {
       "name": "Nick Zephyr",
-      "id": 5,
+      "id": 6,
       "position": [
         -284.786,
         2.533,
@@ -892,8 +919,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -925,7 +952,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -963,8 +990,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1002,7 +1029,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1024,7 +1051,7 @@
     ],
     "poster": {
       "name": "Qundon",
-      "id": 6,
+      "id": 7,
       "position": [
         -263.95,
         -90,
@@ -1041,8 +1068,8 @@
         0.2
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1078,7 +1105,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -1146,8 +1173,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1180,7 +1207,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1197,7 +1224,7 @@
     ],
     "poster": {
       "name": "The Urge",
-      "id": 7,
+      "id": 8,
       "position": [
         -205.336,
         0.538,
@@ -1214,8 +1241,8 @@
         0.105244
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1269,7 +1296,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -1328,8 +1355,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1360,7 +1387,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1391,7 +1418,7 @@
     ],
     "poster": {
       "name": "nateghila",
-      "id": 8,
+      "id": 9,
       "position": [
         -281.52,
         2.533,
@@ -1408,8 +1435,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1440,7 +1467,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -1472,8 +1499,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1504,7 +1531,7 @@
         0.6137412
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1520,7 +1547,7 @@
     ],
     "poster": {
       "name": "㆐Ai㆐亜維",
-      "id": 9,
+      "id": 10,
       "position": [
         12.568,
         2.359,
@@ -1537,8 +1564,8 @@
         0.3973188
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
