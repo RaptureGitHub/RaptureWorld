@@ -175,19 +175,19 @@
       "name": "Chloe Fleurage",
       "id": 1,
       "position": [
-        -268.996,
-        -90,
-        -468.135
+        10.791,
+        2.3588,
+        7.760987
       ],
       "rotation": [
-        90,
-        360,
-        -88.768
+        -90,
+        0,
+        51.905
       ],
       "scale": [
-        0.2,
-        0.2,
-        0.2
+        0.3973188,
+        0.3973188,
+        0.3973188
       ],
       "textureOffset": [
         0,
@@ -1392,8 +1392,7 @@
   },
   "nightbreed": {
     "roles": [
-      "Angel",
-      "Supervisor"
+      "Angel"
     ],
     "poster": {
       "name": "nightbreed",
