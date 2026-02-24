@@ -229,14 +229,14 @@
       "name": "DarkXieon",
       "id": 1,
       "position": [
-        -7.968,
-        3.193,
-        -17.149
+        -7.936,
+        3.19,
+        -17.15
       ],
       "rotation": [
         -90,
         0,
-        180
+        180.805
       ],
       "scale": [
         0.3973188,
@@ -298,9 +298,9 @@
       "name": "DreamingKokiri",
       "id": 1,
       "position": [
-        17.886,
-        2.359,
-        13.344
+        17.884,
+        2.36,
+        13.321
       ],
       "rotation": [
         -90,
@@ -442,19 +442,19 @@
       "name": "Flutterhawk ™",
       "id": 2,
       "position": [
-        -280.012,
-        2.533,
-        -450.536
+        -278.442,
+        2.502,
+        -451.022
       ],
       "rotation": [
-        90,
-        0,
-        -17.348
+        85.597,
+        -72.835,
+        -90
       ],
       "scale": [
-        0.1294987,
-        0.17798,
-        0.1903674
+        0.1271372,
+        0.1305793,
+        0.1944243
       ],
       "textureOffset": [
         0.5,
@@ -467,7 +467,34 @@
     }
   },
   "Flutterhawk2": {
-    "roles": []
+    "roles": [],
+    "poster": {
+      "name": "Flutterhawk2",
+      "id": 3,
+      "position": [
+        -252.278,
+        5.765,
+        -438.688
+      ],
+      "rotation": [
+        90,
+        0,
+        128.217
+      ],
+      "scale": [
+        0.1478224,
+        0.16911,
+        0.2170865
+      ],
+      "textureOffset": [
+        0,
+        0.5
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
   },
   "HcgRandon": {
     "roles": [
@@ -497,7 +524,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -553,8 +580,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -586,7 +613,7 @@
         0.2137636
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -601,7 +628,7 @@
     ],
     "poster": {
       "name": "Kuroki≺3",
-      "id": 3,
+      "id": 4,
       "position": [
         6.55,
         3.64,
@@ -618,8 +645,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -650,7 +677,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -682,8 +709,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -719,7 +746,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -734,7 +761,7 @@
     ],
     "poster": {
       "name": "Lunara Tsuki",
-      "id": 4,
+      "id": 5,
       "position": [
         31.733,
         3.644,
@@ -751,8 +778,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -784,7 +811,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -832,8 +859,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -865,7 +892,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -881,7 +908,7 @@
     ],
     "poster": {
       "name": "NightcoreVR",
-      "id": 5,
+      "id": 6,
       "position": [
         10.693,
         9.332,
@@ -898,8 +925,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -936,7 +963,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -975,8 +1002,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1014,7 +1041,7 @@
         0.2
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1034,7 +1061,7 @@
     ],
     "poster": {
       "name": "REDACTED］",
-      "id": 6,
+      "id": 7,
       "position": [
         14.915,
         7.905,
@@ -1051,8 +1078,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1119,7 +1146,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -1153,8 +1180,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1187,7 +1214,7 @@
         0.105244
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1225,7 +1252,7 @@
     ],
     "poster": {
       "name": "Volcanor",
-      "id": 7,
+      "id": 8,
       "position": [
         24.977,
         9.332,
@@ -1242,8 +1269,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1301,7 +1328,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -1333,8 +1360,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1381,7 +1408,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1396,7 +1423,7 @@
     ],
     "poster": {
       "name": "nightbreed",
-      "id": 8,
+      "id": 9,
       "position": [
         31.733,
         3.644,
@@ -1413,8 +1440,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1445,7 +1472,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -1463,9 +1490,9 @@
       "name": "㆐Ai㆐亜維",
       "id": 9,
       "position": [
-        12.557,
+        12.568,
         2.359,
-        9.17
+        9.153
       ],
       "rotation": [
         -90,
@@ -1478,8 +1505,8 @@
         0.3973188
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
