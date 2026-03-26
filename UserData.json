@@ -423,7 +423,34 @@
     "roles": [
       "Angel",
       "MapMaker"
-    ]
+    ],
+    "poster": {
+      "name": "Eric Fandenfart",
+      "id": 2,
+      "position": [
+        6.55,
+        3.64,
+        55.45
+      ],
+      "rotation": [
+        90,
+        180,
+        90
+      ],
+      "scale": [
+        0.155383,
+        0.1595517,
+        0.2355572
+      ],
+      "textureOffset": [
+        0.5,
+        0
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
   },
   "Evehexen": {
     "roles": [
@@ -440,7 +467,7 @@
     ],
     "poster": {
       "name": "Flutterhawk ™",
-      "id": 2,
+      "id": 3,
       "position": [
         -278.442,
         2.502,
@@ -457,8 +484,8 @@
         0.1944243
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -487,7 +514,7 @@
         0.2170865
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -524,19 +551,14 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
         0.5
       ]
     }
-  },
-  "Jade The Fox": {
-    "roles": [
-      "Demon"
-    ]
   },
   "Jean D'Nim": {
     "roles": [
@@ -574,7 +596,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -590,7 +612,7 @@
     ],
     "poster": {
       "name": "Katyzon2",
-      "id": 3,
+      "id": 4,
       "position": [
         -252.284,
         5.776,
@@ -607,8 +629,8 @@
         0.2137636
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -627,38 +649,6 @@
         6.55,
         3.64,
         58.28
-      ],
-      "rotation": [
-        90,
-        180,
-        90
-      ],
-      "scale": [
-        0.155383,
-        0.1595517,
-        0.2355572
-      ],
-      "textureOffset": [
-        0,
-        0.5
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
-  "Kōmori_Nix": {
-    "roles": [
-      "Angel"
-    ],
-    "poster": {
-      "name": "Kōmori_Nix",
-      "id": 4,
-      "position": [
-        6.55,
-        3.64,
-        55.45
       ],
       "rotation": [
         90,
@@ -1020,43 +1010,6 @@
       "Demon"
     ]
   },
-  "Qundon": {
-    "roles": [
-      "Demon",
-      "DJ",
-      "Security"
-    ],
-    "poster": {
-      "name": "Qundon",
-      "id": 6,
-      "position": [
-        -263.95,
-        -90,
-        -471.19
-      ],
-      "rotation": [
-        90,
-        360,
-        53.282
-      ],
-      "scale": [
-        0.2,
-        0.2,
-        0.2
-      ],
-      "textureOffset": [
-        0.5,
-        0
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
-  "Qundon2": {
-    "roles": []
-  },
   "REDACTED］": {
     "roles": [
       "Angel",
@@ -1065,7 +1018,7 @@
     ],
     "poster": {
       "name": "REDACTED］",
-      "id": 7,
+      "id": 6,
       "position": [
         14.915,
         7.905,
@@ -1082,8 +1035,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1150,7 +1103,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1190,8 +1143,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1224,7 +1177,7 @@
         0.105244
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -1262,7 +1215,7 @@
     ],
     "poster": {
       "name": "Volcanor",
-      "id": 8,
+      "id": 7,
       "position": [
         24.977,
         9.332,
@@ -1279,8 +1232,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1338,7 +1291,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1370,8 +1323,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1418,7 +1371,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -1433,7 +1386,7 @@
     ],
     "poster": {
       "name": "nightbreed",
-      "id": 9,
+      "id": 8,
       "position": [
         31.733,
         3.644,
@@ -1450,8 +1403,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1482,7 +1435,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1514,8 +1467,8 @@
         0.6137412
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1547,7 +1500,7 @@
         0.175245
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
