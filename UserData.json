@@ -155,11 +155,6 @@
       ]
     }
   },
-  "Bіmbο": {
-    "roles": [
-      "Angel"
-    ]
-  },
   "Carpa": {
     "roles": [
       "Angel",
@@ -1078,6 +1073,11 @@
       "Security"
     ]
   },
+  "Rinera": {
+    "roles": [
+      "Demon"
+    ]
+  },
   "RustySpoonz1": {
     "roles": [
       "Security"
@@ -1204,11 +1204,6 @@
       "DJ"
     ]
   },
-  "VelvetcakeVR": {
-    "roles": [
-      "Security"
-    ]
-  },
   "Virenthemage": {
     "roles": [
       "Security"
@@ -1264,11 +1259,6 @@
   "Ziggor": {
     "roles": [
       "Angel"
-    ]
-  },
-  "ahomelesscake": {
-    "roles": [
-      "Security"
     ]
   },
   "casar32": {
