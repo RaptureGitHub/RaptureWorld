@@ -144,6 +144,11 @@
       "Angel"
     ]
   },
+  "Bailey．": {
+    "roles": [
+      "Angel"
+    ]
+  },
   "BladeMaster42": {
     "roles": [
       "Supervisor",
@@ -246,6 +251,11 @@
   "Cironex": {
     "roles": [
       "MapMaker"
+    ]
+  },
+  "Codybun": {
+    "roles": [
+      "Angel"
     ]
   },
   "Connver": {
@@ -668,6 +678,11 @@
       ]
     }
   },
+  "Kinessa_Yandere": {
+    "roles": [
+      "Angel"
+    ]
+  },
   "Kuroki≺3": {
     "roles": [
       "Angel"
@@ -700,38 +715,6 @@
       ]
     }
   },
-  "Lavvyra": {
-    "roles": [
-      "Angel"
-    ],
-    "poster": {
-      "name": "Lavvyra",
-      "id": 4,
-      "position": [
-        6.55,
-        3.64,
-        63.89
-      ],
-      "rotation": [
-        90,
-        180,
-        90
-      ],
-      "scale": [
-        0.155383,
-        0.1595517,
-        0.2355572
-      ],
-      "textureOffset": [
-        0.5,
-        0
-      ],
-      "textureScale": [
-        0.5,
-        0.5
-      ]
-    }
-  },
   "Lizzy Fur": {
     "roles": [
       "Demon"
@@ -743,7 +726,7 @@
     ],
     "poster": {
       "name": "Lucariochu",
-      "id": 5,
+      "id": 4,
       "position": [
         23.354,
         7.905,
@@ -760,8 +743,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -792,7 +775,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -825,8 +808,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -878,7 +861,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -894,7 +877,7 @@
     ],
     "poster": {
       "name": "Nick Zephyr",
-      "id": 6,
+      "id": 5,
       "position": [
         -284.786,
         2.533,
@@ -911,8 +894,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -944,7 +927,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -982,8 +965,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1031,7 +1014,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -1054,7 +1037,7 @@
     ],
     "poster": {
       "name": "REDACTED］",
-      "id": 7,
+      "id": 6,
       "position": [
         14.915,
         7.905,
@@ -1071,8 +1054,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1121,6 +1104,11 @@
       "Angel"
     ]
   },
+  "Sith Vulpes": {
+    "roles": [
+      "Angel"
+    ]
+  },
   "Skyaor": {
     "roles": [
       "Host"
@@ -1144,7 +1132,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1184,8 +1172,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1218,7 +1206,7 @@
         0.105244
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -1251,7 +1239,7 @@
     ],
     "poster": {
       "name": "Volcanor",
-      "id": 8,
+      "id": 7,
       "position": [
         24.977,
         9.332,
@@ -1268,8 +1256,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1322,7 +1310,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1354,8 +1342,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1402,7 +1390,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
@@ -1417,7 +1405,7 @@
     ],
     "poster": {
       "name": "nightbreed",
-      "id": 9,
+      "id": 8,
       "position": [
         31.733,
         3.644,
@@ -1434,8 +1422,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
-        0.5
+        0.5,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1466,7 +1454,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
+        0,
         0.5
       ],
       "textureScale": [
@@ -1474,6 +1462,11 @@
         0.5
       ]
     }
+  },
+  "whiffinshit": {
+    "roles": [
+      "Angel"
+    ]
   },
   "z signature wall": {
     "roles": [
@@ -1498,8 +1491,8 @@
         0.6137412
       ],
       "textureOffset": [
-        0,
-        0
+        0.5,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1510,6 +1503,11 @@
   "~Sylvie ~": {
     "roles": [
       "DJ"
+    ]
+  },
+  "✯Cheeks✯": {
+    "roles": [
+      "Angel"
     ]
   },
   "㆐Ai_Usagi㆐愛兎": {
@@ -1536,7 +1534,7 @@
         0.175245
       ],
       "textureOffset": [
-        0.5,
+        0,
         0
       ],
       "textureScale": [
