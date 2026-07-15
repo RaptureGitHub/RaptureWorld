@@ -342,7 +342,34 @@
   "DecafCoffee": {
     "roles": [
       "Angel"
-    ]
+    ],
+    "poster": {
+      "name": "DecafCoffee",
+      "id": 2,
+      "position": [
+        6.55,
+        3.64,
+        63.89
+      ],
+      "rotation": [
+        90,
+        180,
+        90
+      ],
+      "scale": [
+        0.155383,
+        0.1595517,
+        0.2355572
+      ],
+      "textureOffset": [
+        0.5,
+        0.5
+      ],
+      "textureScale": [
+        0.5,
+        0.5
+      ]
+    }
   },
   "Delta Dark Star": {
     "roles": [
@@ -377,8 +404,8 @@
         0.175245
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -415,7 +442,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -430,7 +457,7 @@
     ],
     "poster": {
       "name": "EmpressSanaki",
-      "id": 2,
+      "id": 3,
       "position": [
         -284.785,
         2.533,
@@ -447,8 +474,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -481,7 +508,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -523,8 +550,8 @@
         0.1944243
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -553,7 +580,7 @@
         0.2170865
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -573,7 +600,7 @@
     ],
     "poster": {
       "name": "HunnieBrown",
-      "id": 3,
+      "id": 4,
       "position": [
         6.55,
         3.64,
@@ -590,8 +617,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -636,7 +663,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -669,8 +696,8 @@
         0.2137636
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -706,7 +733,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -726,7 +753,7 @@
     ],
     "poster": {
       "name": "Lucariochu",
-      "id": 4,
+      "id": 5,
       "position": [
         23.354,
         7.905,
@@ -743,8 +770,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -775,7 +802,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -808,8 +835,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -861,7 +888,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -877,7 +904,7 @@
     ],
     "poster": {
       "name": "Nick Zephyr",
-      "id": 5,
+      "id": 6,
       "position": [
         -284.786,
         2.533,
@@ -894,8 +921,8 @@
         0.1903674
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -927,7 +954,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -965,8 +992,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1014,7 +1041,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1037,7 +1064,7 @@
     ],
     "poster": {
       "name": "REDACTED］",
-      "id": 6,
+      "id": 7,
       "position": [
         14.915,
         7.905,
@@ -1054,8 +1081,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1132,7 +1159,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -1172,8 +1199,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1206,7 +1233,7 @@
         0.105244
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1239,7 +1266,7 @@
     ],
     "poster": {
       "name": "Volcanor",
-      "id": 7,
+      "id": 8,
       "position": [
         24.977,
         9.332,
@@ -1256,8 +1283,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1310,7 +1337,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -1342,8 +1369,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1390,7 +1417,7 @@
         0.1903674
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
@@ -1405,7 +1432,7 @@
     ],
     "poster": {
       "name": "nightbreed",
-      "id": 8,
+      "id": 9,
       "position": [
         31.733,
         3.644,
@@ -1422,8 +1449,8 @@
         0.2355572
       ],
       "textureOffset": [
-        0.5,
-        0
+        0,
+        0.5
       ],
       "textureScale": [
         0.5,
@@ -1454,7 +1481,7 @@
         0.2355572
       ],
       "textureOffset": [
-        0,
+        0.5,
         0.5
       ],
       "textureScale": [
@@ -1491,8 +1518,8 @@
         0.6137412
       ],
       "textureOffset": [
-        0.5,
-        0.5
+        0,
+        0
       ],
       "textureScale": [
         0.5,
@@ -1534,7 +1561,7 @@
         0.175245
       ],
       "textureOffset": [
-        0,
+        0.5,
         0
       ],
       "textureScale": [
