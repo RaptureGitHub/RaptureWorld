@@ -639,6 +639,12 @@
       "MapMaker"
     ]
   },
+  "Kanin_KFA": {
+    "roles": [
+      "Angel",
+      "DJ"
+    ]
+  },
   "Katyzon": {
     "roles": [
       "Angel",
@@ -1167,12 +1173,6 @@
         0.5
       ]
     }
-  },
-  "Sonne_KFA": {
-    "roles": [
-      "Angel",
-      "DJ"
-    ]
   },
   "Steel_Prism": {
     "roles": [
