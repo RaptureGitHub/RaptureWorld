@@ -589,6 +589,11 @@
       ]
     }
   },
+  "Gaming Alicia": {
+    "roles": [
+      "Angel"
+    ]
+  },
   "HcgRandon": {
     "roles": [
       "MapMaker"
@@ -1062,6 +1067,11 @@
       "Demon"
     ]
   },
+  "Quinniby": {
+    "roles": [
+      "Angel"
+    ]
+  },
   "REDACTED］": {
     "roles": [
       "Angel",
@@ -1489,11 +1499,6 @@
         0.5
       ]
     }
-  },
-  "whiffinshit": {
-    "roles": [
-      "Angel"
-    ]
   },
   "z signature wall": {
     "roles": [
