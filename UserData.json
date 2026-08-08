@@ -1356,12 +1356,12 @@
       ]
     }
   },
-  "fadetheknife": {
+  "folixthelion": {
     "roles": [
       "Angel"
     ],
     "poster": {
-      "name": "fadetheknife",
+      "name": "folixthelion",
       "id": 8,
       "position": [
         27.73,
@@ -1387,11 +1387,6 @@
         0.5
       ]
     }
-  },
-  "folixthelion": {
-    "roles": [
-      "Angel"
-    ]
   },
   "iKisa": {
     "roles": [
