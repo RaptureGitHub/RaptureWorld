@@ -790,6 +790,11 @@
       ]
     }
   },
+  "Minxy-doll": {
+    "roles": [
+      "Angel"
+    ]
+  },
   "MiokaCytal": {
     "roles": [
       "Supervisor",
@@ -1033,6 +1038,11 @@
     "roles": [
       "Angel",
       "Demon"
+    ]
+  },
+  "QiwiFleetFoot": {
+    "roles": [
+      "Angel"
     ]
   },
   "Quinniby": {
@@ -1365,6 +1375,11 @@
   "iKisa": {
     "roles": [
       "Security"
+    ]
+  },
+  "karawr": {
+    "roles": [
+      "Angel"
     ]
   },
   "mainplays": {
