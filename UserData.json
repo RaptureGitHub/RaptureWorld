@@ -31,6 +31,11 @@
       ]
     }
   },
+  "Ace The Bunny": {
+    "roles": [
+      "Angel"
+    ]
+  },
   "Afterpwn": {
     "roles": [
       "Security"
@@ -486,7 +491,6 @@
   },
   "Evehexen": {
     "roles": [
-      "Angel",
       "Demon"
     ]
   },
@@ -1528,6 +1532,7 @@
   },
   "㆐Ai_Usagi㆐愛兎": {
     "roles": [
+      "Angel",
       "Demon",
       "Security"
     ],
