@@ -116,11 +116,6 @@
       "Angel"
     ]
   },
-  "Bailey．": {
-    "roles": [
-      "Angel"
-    ]
-  },
   "BladeMaster42": {
     "roles": [
       "Supervisor",
@@ -153,6 +148,11 @@
         0.5
       ]
     }
+  },
+  "Bosmeri": {
+    "roles": [
+      "Angel"
+    ]
   },
   "Carpa": {
     "roles": [
@@ -690,7 +690,8 @@
   },
   "Kinessa_Yandere": {
     "roles": [
-      "Angel"
+      "Angel",
+      "Demon"
     ]
   },
   "Kuroki≺3": {
@@ -1379,12 +1380,6 @@
   "karawr": {
     "roles": [
       "Angel"
-    ]
-  },
-  "kinessa_yandere": {
-    "roles": [
-      "Angel",
-      "Demon"
     ]
   },
   "mainplays": {
